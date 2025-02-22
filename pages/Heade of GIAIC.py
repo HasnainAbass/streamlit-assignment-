@@ -28,18 +28,13 @@ with tab2:
     st.link_button("More about Miss Hira Khan", "https://www.linkedin.com/in/hirakhanofficial/")
 # ---------------------------------------------------------------------------------------
 with tab3:
-   st.image('images/MissHirakhan.jpg',caption='Chief Operating Officer in PIAIC Miss Hira')
-   st.text("Miss Hira Khan is a GenAI and Web 3.0 developer and I am the Director of the Women Empowerment of the Presidential Initiative for Artificial Intelligence & Computing. The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4th industrial revolution. The mission is to train our workforce in the latest technologies and abuild a technology driven economy in both the domestic market as well as exports. I am a patron of the PIAIC program.")
-
-#     st.image('images/SirDaniyal.jpg',caption=' MR. Daniyal Nagori')
-#     st.text("Mr. Daniyal Nagori is a GenAI and Web 3.0 developer and nation-transforming social entrepreneur who has successfully completed numerous software projects and trained hundreds of thousands of software developers in the latest state-of-the-art technologies. ")
-#     st.text("he has been fortunate to be able to architect solutions in as wide an array as Cloud Native, Voice Computing/Chatbot development, Web, Mobile, AI, and Blockchain.")
-#     st.link_button("More about Sir Daniyal Nagori", "https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk")
+   st.image('images/sirDaniyal.jpg',caption='MR. Daniyal Nagori')
+   st.text("Mr. Daniyal Nagori is a GenAI and Web 3.0 developer and nation-transforming social entrepreneur who has successfully completed numerous software projects and trained hundreds of thousands of software developers in the latest state-of-the-art technologies.")
+   st.text("he has been fortunate to be able to architect solutions in as wide an array as Cloud Native, Voice Computing/Chatbot development, Web, Mobile, AI, and Blockchain.")
+   st.link_button("More about Sir Daniyal Nagori", "https://www.linkedin.com/in/daniyalnagori/?originalSubdomain=pk")
 # --------------------------------------------------------------------------------------
 with tab4:
-   st.image('images/MissHirakhan.jpg',caption='Chief Operating Officer in PIAIC Miss Hira')
-   st.text("Miss Hira Khan is a GenAI and Web 3.0 developer and I am the Director of the Women Empowerment of the Presidential Initiative for Artificial Intelligence & Computing. The mission of PIAIC is to reshape Pakistan by revolutionizing education, research, and business by adopting latest, cutting-edge technologies. Experts are calling this the 4th industrial revolution. The mission is to train our workforce in the latest technologies and abuild a technology driven economy in both the domestic market as well as exports. I am a patron of the PIAIC program.")
-#     st.image('images/SirAmeen.jpg',caption=' MR. Ameen Alam Bank Al-Beilaad UAE')
-#     st.text("Mr. Ameen Alam is a GenAI and Web 3.0 developer and Experience in leading & executing multiple large scale IT programs, with experience of directing all aspects of the software project lifecycle with different project methodologies like Agile, Waterfall (Scrum, Kanban) ")
-#     st.text("he has been Configuring networks SDN, VPC, network bridging, NAT, DHCP, subnets, IPs, and firewall rules, WAF, VPN, network port, network security best practice, for rack server, blade server, AWS, GCP, and on-premises infrastructure")
-#     st.link_button("More about Sir Ameen Alam", "https://www.linkedin.com/in/ameen-alam/")
+    st.image('images/sirAmeen.jpg',caption=' MR. Ameen Alam Bank Al-Beilaad UAE')
+    st.text("Mr. Ameen Alam is a GenAI and Web 3.0 developer and Experience in leading & executing multiple large scale IT programs, with experience of directing all aspects of the software project lifecycle with different project methodologies like Agile, Waterfall (Scrum, Kanban) ")
+    st.text("he has been Configuring networks SDN, VPC, network bridging, NAT, DHCP, subnets, IPs, and firewall rules, WAF, VPN, network port, network security best practice, for rack server, blade server, AWS, GCP, and on-premises infrastructure")
+    st.link_button("More about Sir Ameen Alam", "https://www.linkedin.com/in/ameen-alam/")
