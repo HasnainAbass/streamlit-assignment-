@@ -3,7 +3,7 @@ import streamlit as st
 st.title("I am Mr.Arif Rozani ")
 heading = "Assalam-o-alicom Dear Student's.! "
 st.success(heading)
-st.image("sirArif.jpg")
+st.image("images/sirArif.jpg")
 
 st.warning(" Attention, Future Agentic AI Developers!")
 st.markdown("---")

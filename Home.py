@@ -20,5 +20,5 @@ st.markdown('[https://docs.streamlit.io/library/get-started/installation](https:
 st.markdown('[https://docs.streamlit.io/library/cheatsheet](https://docs.streamlit.io/library/cheatsheet)')
 
 
-st.image('Heads.jpg',caption='AWARDS SAMINNAR SIR ZIA KHAN')
-st.video('Rose.mp4', loop=True )
+st.image('images/Heads.jpg',caption='AWARDS SAMINNAR SIR ZIA KHAN')
+st.video('mp4/Rose.mp4', loop=True )
